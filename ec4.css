@@ -1,0 +1,8 @@
+﻿@charset "utf-8"
+@import url(http://fonts.googleapis.com/css?family=Orbitron:900);
+
+body {
+  color: #ff69b4;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 36px;
+  background-color: #ff1493; }
